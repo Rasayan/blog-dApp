@@ -34,7 +34,7 @@ function Usenavbar() {
                         md:border-b-0  hover:bg-violet-400  border-purple-900  md:hover:text-violet-400 
                         md:hover:bg-transparent"
             >
-              <Link href="#about">
+              <Link href="/addblog">
                 <FiPlusSquare className="w-7 h-7 text-zinc-400" />
               </Link>
             </li>
